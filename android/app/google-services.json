@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "1069088958634",
+    "project_id": "rssentosa-82d6d",
+    "storage_bucket": "rssentosa-82d6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069088958634:android:6a508e9691b70c1308c8d3",
+        "android_client_info": {
+          "package_name": "com.android.applica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069088958634-3qem4t8fev50t6snaogp7mi3pecrevjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmOYkxZGBTVfB-gc8a76IFMGlfj8z43I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069088958634-3qem4t8fev50t6snaogp7mi3pecrevjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069088958634-690485v841pqtfr1rhodh9l9npdh30fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medics"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069088958634:android:0300b58c9d5a21a408c8d3",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069088958634-3qem4t8fev50t6snaogp7mi3pecrevjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmOYkxZGBTVfB-gc8a76IFMGlfj8z43I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069088958634-3qem4t8fev50t6snaogp7mi3pecrevjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069088958634-690485v841pqtfr1rhodh9l9npdh30fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medics"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069088958634:android:a89114f05a80471d08c8d3",
+        "android_client_info": {
+          "package_name": "com.example.medheal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069088958634-3qem4t8fev50t6snaogp7mi3pecrevjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmOYkxZGBTVfB-gc8a76IFMGlfj8z43I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069088958634-3qem4t8fev50t6snaogp7mi3pecrevjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069088958634-690485v841pqtfr1rhodh9l9npdh30fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medics"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069088958634:android:2e55b77ab68c716d08c8d3",
+        "android_client_info": {
+          "package_name": "com.example.medics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069088958634-3qem4t8fev50t6snaogp7mi3pecrevjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmOYkxZGBTVfB-gc8a76IFMGlfj8z43I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069088958634-3qem4t8fev50t6snaogp7mi3pecrevjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069088958634-690485v841pqtfr1rhodh9l9npdh30fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
